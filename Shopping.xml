@@ -1,0 +1,22 @@
+{
+    "shoppingList":[
+        {"supermarket":"Alcampo","address":"Calle 1","coordinates":"51.507351, -0.127758",
+        "items":[
+            {"item":"Milk","quantity":1,"dueDate":"2023-05-23","done":true,"sale":true,"units":"ml","price":"1"},
+            {"item":"Bread","quantity":1,"dueDate":"2023-05-03","done":false,"sale":true,"units":"gr","price":"1"},
+            {"item":"Banana","quantity":1,"dueDate":"2023-05-31","done":false,"sale":false,"units":"gr","price":"4"},
+            {"item":"Chocolate","quantity":1,"dueDate":"2023-05-7","done":false,"sale":true,"units":"gr","price":"5"}
+        ]
+        },
+        {"supermarket":"Carrefour","address":"Calle 2","coordinates":"40.712776, -74.005974",
+        "items":[
+            {"item":"Eggs","quantity":1,"dueDate":"2023-05-4","done":true,"sale":true,"units":"gr","price":"2"},
+            {"item":"Bread","quantity":1,"dueDate":"2023-05-13","done":false,"sale":true,"units":"gr","price":"1"},
+            {"item":"Pineaple","quantity":1,"dueDate":"2023-05-23","done":false,"sale":false,"units":"gr","price":"3"},
+            {"item":"Pasta","quantity":1,"dueDate":"2023-05-03","done":true,"sale":true,"units":"gr","price":"1"},
+            {"item":"Rice","quantity":1,"dueDate":"2023-05-30","done":false,"sale":true,"units":"gr","price":"2"},
+            {"item":"Flour","quantity":1,"dueDate":"2023-06-2","done":true,"sale":true,"units":"gr","price":"2"}
+        ]
+        }
+    ]
+}
